@@ -1,3 +1,0 @@
-# Auto detect text files and perform LF normalization
-*.astro linguist-detectable=false
-*.javascript linguist-detectable=true
